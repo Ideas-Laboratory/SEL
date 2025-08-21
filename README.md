@@ -25,6 +25,7 @@ If you have any problem, please submit an issue or [email](xml95007@gmail.com) u
 
 ## Citation
 
+```
 @inproceedings{structural25xue,
   title = {Structural Entropy Based Visualization of Social Networks},
   author = {Xue, Mingliang and Chen, Lu and Wei, Chunyu and Hou, Shuowei and Cui, Lizhen and Deussen, Oliver and Wang, Yunhai},
@@ -32,3 +33,4 @@ If you have any problem, please submit an issue or [email](xml95007@gmail.com) u
   pages = {1--10},
   booktitle = {The 33rd Pacific Conference on Computer Graphics and Applications (PG)}
 }
+```
